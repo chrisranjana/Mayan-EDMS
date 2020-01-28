@@ -59,6 +59,7 @@ The final version of the book "Exploring Mayan EDMS" available now!
 The link is https://sellfy.com/p/um2fkx/
 
 <h2 align="center">Installation</h2>
+<a href="https://www.chrisranjana.com/django-python-programmers/pythondjangomayanedmsdeveloperteam.html">Mayan EDMS python django developer team programmer team.</a>
 
 The easiest way to use Mayan EDMS is by using the official
 [Docker](https://www.docker.com/) image. Make sure Docker is properly installed
